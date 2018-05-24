@@ -1,18 +1,14 @@
 ---
 name: 2Checkout
 x-slug: 2checkout
-description: A payment services, 2Checkout maximizes online sales conversions by giving
-  global buyers localized payment options. 2Checkout supports transactions in 196
-  countries through 8 payment methods, 26 currencies, and 15 languages for online
-  transactions in the world. e service is simple to implement, including a pre-integrated
-  payment gateway, a merchant account, PCI compliance, international fraud prevention,
-  and plug-ins for 100 of the most popular carts.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/2checkout-logo.png
+description: Accept payments online. 2Checkout.com is an online payment processing
+  service that helps you accept credit cards, PayPal and debit cards.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2169-2checkout.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "23277"
 tags: 2Checkout
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/2checkout/master/_listings/2checkout/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -23,10 +19,20 @@ x-common:
   url: http://www.2checkout.com/blog/feed/rss
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/2checkout-com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/2checkout-com
 - type: x-developer
   url: https://www.2checkout.com/developers
 - type: x-documentation
   url: https://www.2checkout.com/documentation
+- type: x-email
+  url: marketing@2checkout.com
+- type: x-email
+  url: techsupport@2checkout.com
+- type: x-email
+  url: privacy@2checkout.com
+- type: x-email
+  url: dpo@2checkout.com
 - type: x-github
   url: https://github.com/2Checkout
 - type: x-pricing
